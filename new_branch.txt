@@ -1,0 +1,17 @@
+case1. 각 브랜치에 신규 commit이 있는 경우  3-way-merge
+case2. 기준 브랜치에 신규 commit이 없는 경우 fast-forward merge
+    - git merge --no-ff 브랜치명 하면 3-way-merge가능
+case3. git rebase & merge(rebase & fast-forward merge) main에 신규 commit이 있어도 가능
+방법 : 새로운 브랜치로 이동하여 -> git rebase 중심브랜치명 -> 중심 브랜치로 이동해서 -> fast-forward(git merge)
+case4. sqush and merge
+    - 머지할때, git merge -- squash 새브런치
+
+브랜치 삭제
+git branch -d 브랜치명
+merge안했을 경우는 -D
+
+fast 최종본
+
+최종본입니다.
+
+fast
