@@ -11,3 +11,7 @@ git branch -d 브랜치명
 merge안했을 경우는 -D
 
 fast 최종본
+
+최종본입니다.
+
+fast
