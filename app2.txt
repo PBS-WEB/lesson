@@ -1,16 +1,3 @@
-dfasdfasdf
-
-
-dds
-
-dfasdfasdf
-dfasdfasdf
-
-
-sdfasdfasdf
-
-ddd
-
 git add .
 git status
 git commit -m 'ddd'
@@ -23,7 +10,3 @@ git branch ==> git 복사본
 
 git branch coupon ==> branch 생성
 git switch coupon ==> branch로 이동
-
-dddd
-ddd
-dkdkdk
