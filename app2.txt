@@ -1,4 +1,4 @@
-git add .
+git add . main
 git status
 git commit -m 'ddd'
 git diff
@@ -10,3 +10,5 @@ git branch ==> git 복사본
 
 git branch coupon ==> branch 생성
 git switch coupon ==> branch로 이동
+
+메인에서 git merge coupon 실행 
