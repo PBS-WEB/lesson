@@ -10,3 +10,16 @@ dfasdfasdf
 sdfasdfasdf
 
 ddd
+
+git add .
+git status
+git commit -m 'ddd'
+git diff
+git difftool
+
+git graph
+
+git branch ==> git 복사본
+
+git branch coupon ==> branch 생성
+git switch coupon ==> branch로 이동
