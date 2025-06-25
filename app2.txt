@@ -12,3 +12,5 @@ git branch coupon ==> branch 생성
 git switch coupon ==> branch로 이동
 
 메인에서 git merge coupon 실행 
+
+바나나에서 진짜 수정 아까는 메인에서 수정
