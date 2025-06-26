@@ -3,6 +3,7 @@ case2. 기준 브랜치에 신규 commit이 없는 경우 fast-forward merge
     - git merge --no-ff 브랜치명 하면 3-way-merge가능
 case3. git rebase & merge(rebase & fast-forward merge) main에 신규 commit이 있어도 가능
 방법 : 새로운 브랜치로 이동하여 -> git rebase 중심브랜치명 -> 중심 브랜치로 이동해서 -> fast-forward(git merge)
+git rebase --continue
 case4. sqush and merge
     - 머지할때, git merge -- squash 새브런치
 
@@ -32,3 +33,9 @@ orange
 rebase2
 
 rebase1
+
+1
+
+2
+
+3
