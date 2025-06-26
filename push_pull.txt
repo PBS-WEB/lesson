@@ -1,1 +1,7 @@
 git push -u 원격저장소주소 올릴로컬브랜치명
+원격저장소주소 -> 변수로 사용가능
+(git remote add origin 주소)
+
+git push -u origin main(-u는 주소 기억하라는 뜻)
+
+굳
